@@ -59,6 +59,8 @@ docker build -t app_name .
 
    **-d**, option to run in background
 
+> **Missing**: I wanted to configure CI/CD pipeline, and connect to pull request webhooks with buildkite, but did not have enough time :-()
+
 # Design Approach
 
 Since I hadn’t worked with OpenAI before, I decided to explore GPT and try it out. I quickly built a Ruby on Rails web app and used event streams to send data from the server to the client.
