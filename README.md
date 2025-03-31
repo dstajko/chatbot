@@ -135,7 +135,7 @@ sequenceDiagram
 
 ### Testing
 
-I added unit tests the strategy design pattern actors, however they do not pass. They are now only to demonstrate unit test test strategy.
+I added unit tests the strategy design pattern actors, however they do not pass. They are now only to demonstrate unit test test strategy. These test files are in the **test/services** folder.
 I was also planning to add integration tests, at the Rails controller level, however I ran out of time.
 
 ## References
