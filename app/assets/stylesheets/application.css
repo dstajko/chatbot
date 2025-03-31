@@ -8,3 +8,18 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 95vh;
+}
+
+.chat-conversation {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.chat-input {
+  flex-shrink: 0;
+}
