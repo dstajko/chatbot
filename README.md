@@ -146,9 +146,3 @@ I was also planning to add integration tests, at the Rails controller level, how
 [Rails](https://rubyonrails.org/)
 [StrategyPatterDesign](https://www.geeksforgeeks.org/strategy-pattern-set-1/)
 [AI Agents (IBM)](https://www.ibm.com/ai-agents)
-
-## Containerization (Docker)
-
-I added **Dockerfile**, as well as **docker-compose.yml**. Although I was very close to sort out ruby / rails library (gem) versions mismatch, I did not complete it(Ruby on Rails is well know for being complicated when it comes to gem management).
-
-
